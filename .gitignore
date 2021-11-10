@@ -11,6 +11,9 @@
 .mtj.tmp/
 
 /.idea
+/.gradle
+/build
+/out
 
 # Package Files #
 *.jar
